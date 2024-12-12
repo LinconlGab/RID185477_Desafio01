@@ -1,3 +1,1 @@
-# Este é o meu repositorio inicial
-
-#NAO CAGUEI DURAOKKKKKKsada
+#Este é o meu repositorio inicial
