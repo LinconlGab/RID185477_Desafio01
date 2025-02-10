@@ -1,1 +1,1 @@
-#Este é o meu repositorio inicial
+# Construção e estilização da landing page.

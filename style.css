@@ -1,0 +1,85 @@
+* {
+  font-family: "inter";
+  margin: 0px;
+}
+
+/* TOPO */
+#topo {
+  background-color: #303030;
+  padding: 100px;
+}
+#titulo_topo {
+  margin-left: 20px;
+  font-size: 60px;
+  color: white;
+}
+#paragrafo_topo {
+  font-size: 20px;
+  margin-left: 20px;
+  color: white;
+}
+
+/* CABEÇALHO */
+#cabeçalho {
+  background-color: #f9f9f9;
+  color: black;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  padding: 40px;
+}
+.cabeca {
+  margin: 60px;
+}
+
+/* VIDEO */
+#secaovideo {
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+}
+#imagem {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+#titulotexto {
+  margin: 20% 50px 20% 10%;
+}
+#titulo-video {
+  font-size: 40px;
+}
+#paragrafo-video {
+  font-size: 24px;
+}
+
+/* FORMULARIO */
+#formulario {
+  background-color: #303030;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+#titulo-form {
+  font-size: 32px;
+}
+input {
+  border-radius: 5px;
+  width: 480px;
+  height: 50px;
+  padding-left: 20px;
+  border-style: hidden;
+}
+button {
+  background-color: #c07212;
+  color: #ffffff;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  border-style: hidden;
+  font-size: 17px;
+}
+button:hover {
+  background-color: #ff991c;
+  transform: translateY(-7px);
+  transition-duration: 0.5s;
+}
